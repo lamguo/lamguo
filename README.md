@@ -1,16 +1,27 @@
-## Hi there 👋
+### 👋 Hi, I'm lamguo
 
-<!--
-**lamguo/lamguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **e-commerce merchant** and **AI tool developer**.
 
-Here are some ideas to get you started:
+All the tools I build come from **real problems I run into during actual use** — not from imagining what might be useful. If something here helps you too, that's the best outcome.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Projects I maintain
+
+| Project | What it does |
+|---------|-------------|
+| [**recallgate**](https://github.com/lamguo/recallgate) | Token-efficient memory gate for AI coding agents. Cut context costs by 50-90%. |
+| [**markitdown-plus**](https://github.com/lamguo/markitdown-plus) | Enhanced toolkit for Microsoft MarkItDown: batch conversion, format preservation. |
+| [**trendpilot-ai**](https://github.com/lamguo/trendpilot-ai) | Curated tools, workflows, prompts, and templates for building with AI. |
+
+---
+
+### ☕ Support
+
+If any of these tools save you time or money:
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-%2300457C?style=flat-square)](https://paypal.me/lamguo)
+
+---
+
+*Built from real use, for real use.*
